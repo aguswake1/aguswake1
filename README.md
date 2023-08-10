@@ -11,8 +11,8 @@
   ¡Para saber mas sobre mi y/o contactarme, puedes ingresar a mi LinkedIn!
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/agustin-olano" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="28px" width="40px" />
+  <a href="https://www.linkedin.com/in/agustin-olano" target="_blank" style='margin-right:4px'>
+    <img align="center" src="./src/linkedin.svg" alt="linkedin" height="28px" width="40px"/>
   </a>
 </p>
 
