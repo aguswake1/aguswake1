@@ -1,7 +1,7 @@
 ## Hi 👋
 
 <p align="center" width="300">
-   <img align="center" width="200" src="./profilePicture" alt="Agustin Olano"/>
+   <img style="border-radius: 50%;" align="center" width="200" src="./profilePicture.jpg" alt="Agustin Olano"/>
    <h2 align="center">Soy Agustin Olano!</h2>
 </p>
 
