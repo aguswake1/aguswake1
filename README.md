@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi 👋
 
-<!--
-**aguswake1/aguswake1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center" width="300">
+   <img align="center" width="200" src="./profilePicture" alt="Agustin Olano"/>
+   <h2 align="center">Soy Agustin Olano!</h2>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Estudiante de <strong>Ciencias de la Computación</strong> en la Universidad De Buenos Aires
+  <br/>
+  ¡Para saber mas sobre mi y/o contactarme, puedes ingresar a mi LinkedIn!
+</p>
+<a href="https://www.linkedin.com/in/agustin-olano" target="blank" style='margin-right:4px'>
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="28px" width="40px" />
+</a>
