@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Estudiante de <strong>Ciencias de la Computación</strong> en la Universidad De Buenos Aires
+  Estudiante de <strong>Ciencias de la Computación</strong> en la facultad de Ciencias Exactas y Naturales de la Universidad De Buenos Aires
   <br/>
   ¡Para saber mas sobre mi y/o contactarme, puedes ingresar a mi LinkedIn!
 </p>
